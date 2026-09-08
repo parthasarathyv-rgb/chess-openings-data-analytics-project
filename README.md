@@ -14,7 +14,7 @@ Question 3 - Is there a strong white advantage over black in many openings in th
 Overall, this data is extremely meaningful as it can help chess companies discern what openings to allocate more resources to. By focusing on openings that produce better results, greater improvements can be seen in customers that are purchasing their opening resources and companies are likely to therefore generate more revenue.
 
 #Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](dashboard_tableau.png)
 
 #Skills Demonstrated
 - Cleaned up data using python pandas
